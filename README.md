@@ -1,2 +1,2 @@
-# contact
-mini contact in python with functions 
+# دفتر چه تلفن 
+یک دفترچه تلفن مینیمال و مناسب با پایتون که با فانکشن های ساده انجام شده است 
